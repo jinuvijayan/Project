@@ -18,4 +18,4 @@ Project was done in following steps:
    into systems or applications to make predictions.
 
 Hosted webpage link: http://dsagroup8.pythonanywhere.com
-Google Drive Link of dataset and pkl file: https://drive.google.com/drive/u/0/folders/1AWNITpomD19v9BB54NLZlc8VsFG6hey2
+Google Drive Link of dataset and pkl file: https://drive.google.com/drive/folders/1oqYJ97qRjWChVprTENyoxygm8gVAZIO6?usp=sharing
